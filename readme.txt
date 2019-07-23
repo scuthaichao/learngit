@@ -7,4 +7,4 @@ push to GitHub
 
 Creating a new branch is quick & simple
 
-add by master and edit by dev1
+add by master and edit by dev1 and dev2
