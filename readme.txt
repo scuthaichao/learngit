@@ -6,3 +6,5 @@ push to GitHub
 
 
 Creating a new branch is quick & simple
+
+edit by dev1
