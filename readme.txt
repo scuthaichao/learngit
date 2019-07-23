@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 push to GitHub
 
-i modify by branch dev
+i modify by branch dev quicku & simple
