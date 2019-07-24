@@ -9,4 +9,4 @@ Creating a new branch is quick & simple
 
 add by master and edit by dev1 and dev2
 
-test stash
+push to GitHub ,edit by learngit2 from developer2
